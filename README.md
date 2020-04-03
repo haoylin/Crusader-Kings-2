@@ -10,7 +10,7 @@ Crusader Kings II
   you end of a turn, the wealth, prestige, piety, score. The goal is the make this property you have as many as possible, you have to win 
   with the condition that you have a lot of this because you need wealth or prestige to declare a war and let other country to help you.
  
-	  The emergent effect is overall metastability, metastability create a set of organized behaviors but it can’t found in any individua parts
+ The emergent effect is overall metastability, metastability create a set of organized behaviors but it can’t found in any individua parts
   , we need to see it as a whole not individually, like the army we have, we can’t just see only a single solider, an army contain a general
   and different kind of property and there are many armies in a country, they need to move to one place and combine in order to fight 
   another country, this game is basic on a real history event and real character from Middle Ages, when you start the game it will provide 
